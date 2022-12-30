@@ -9,7 +9,7 @@ rem $Header: utlsamp.sql 7020100.1 22:14:24 cli Generic base $sqlbld.sql
 rem 
 SET TERMOUT OFF
 SET ECHO OFF
-
+git remote add origin https://github.com/lopsystem/OracleBD.git
 rem CONGDON Invoked in RDBMS a
 rem build time.
 rem OATES: Created 20-Nov-22
